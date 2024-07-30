@@ -1,7 +1,7 @@
  ## Hello, I'm Elamaran 👋
 
 🎓 MSc Software Systems student at Coimbatore Institute of Technology
-🐍 Python enthusiast with a growing passion for Generative AI
+Gen-AI and Cloud enthusiast
 🚀 Exploring the intersection of software development and artificial intelligence
 🌱 Currently learning about machine learning models and AI frameworks
 💡 Always eager to collaborate on innovative projects
